@@ -5,7 +5,7 @@
   ![Followers](https://img.shields.io/github/followers/zehye?style=social)
   [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://zehye.kr/)](https://github.com/zehye)
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-brightgreen?style=flat-square&logo=github&link=https://zehye.kr/)](https://zehye.kr/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=portfolis&link=https://www.notion.so/iOS-Interview-4874aec7bf2c49d7badc6b27a2904b55)](https://www.notion.so/iOS-Interview-4874aec7bf2c49d7badc6b27a2904b55)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=portfolis&link=https://www.notion.so/039eb71ede874716a981df8a69b88203)](https://www.notion.so/039eb71ede874716a981df8a69b88203)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zehye.01@gmail.com)](mailto:zehye.01@gmail.com)
 
 
