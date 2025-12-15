@@ -1,7 +1,7 @@
 <div>
 <h3>JIHYE's profile</h3>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzehye&count_bg=%238170A2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzehye&count_bg=%238170A2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   ![Followers](https://img.shields.io/github/followers/zehye?style=social)
   [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://zehye.kr/)](https://github.com/zehye)
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-brightgreen?style=flat-square&logo=github&link=https://zehye.kr/)](https://zehye.kr/)
